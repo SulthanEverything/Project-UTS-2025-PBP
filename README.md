@@ -9,4 +9,4 @@ Ini adalah website portfolio pribadi yang dibuat menggunakan HTML, CSS, Bootstra
 - Bootstrap.
 - JavaScript.
 
-<image-card alt="Screenshot Home" src="home 1.PNG" ></image-card>
+<image-card alt="Screenshot Home" src="home 1.png" ></image-card>
