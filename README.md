@@ -9,4 +9,18 @@ Ini adalah website portfolio pribadi yang dibuat menggunakan HTML, CSS, Bootstra
 - Bootstrap.
 - JavaScript.
 
-![Screenshot](home 1.png)
+## Screenshot Website
+
+### Home
+![Halaman Home 1](home-1.png)
+![Halaman Home 2](home-2.png)
+
+### Favorites
+![Halaman Favorites 1](favorites-1.png)
+![Halaman Favorites 2](favorites-2.png)
+![Halaman Favorites 3](favorites-3.png)
+![Halaman Favorites 4](favorites-4.png)
+
+### Contact
+![Halaman Contact 1](contact-1.png)
+![Halaman Contact 2](contact-2.png)
